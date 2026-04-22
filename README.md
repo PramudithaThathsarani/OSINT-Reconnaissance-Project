@@ -1,8 +1,8 @@
 # OSINT-Reconnaissance-Project
-#Overview 
+# Overview 
 - The goal of this assignment is to simulate the Reconnaissance Phase of a cyberattack or a professional penetration test
 
-#Tools used
+# Tools used
  DNSDumpster / crt.sh
  dig
  BGP.he.net
@@ -13,7 +13,7 @@
  Google Dorks
  Wappalyzer
 
-#key finding
+# key finding
  Multiple public subdomains
  DNS configurations
  Employee exposure via LinkedIn
